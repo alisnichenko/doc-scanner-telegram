@@ -1,6 +1,6 @@
 # doc-scanner-telegram
 <p align="images">
-  <img src="https://isocpp.org/files/img/cpp_logo.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="100" />
   <img src="https://opencv.org/wp-content/uploads/2019/02/opencv-logo-1.png" width="100" /> 
   <img src="https://telegram.org/img/t_logo.png" width="100" />
   <img src="https://www.python.org/static/img/python-logo@2x.png" width="300" />
